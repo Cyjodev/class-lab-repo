@@ -1,5 +1,21 @@
 Crimson
+<<<<<<< HEAD
 range
+=======
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+RedCrimson
+Orange
+>>>>>>> 07aa1e9 (Updated example.txt with new colors and data)
 Blue
 Cyan
 Yellow
@@ -11,3 +27,7 @@ Fuchsia
 Purple
 Brown
 Red
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07aa1e9 (Updated example.txt with new colors and data)
